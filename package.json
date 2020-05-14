@@ -1,6 +1,6 @@
 {
   "name": "emoji_letters",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Generates large emoji letters.",
   "main": "index.js",
   "bin": {
