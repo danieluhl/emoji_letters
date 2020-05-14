@@ -1,15 +1,25 @@
 {
   "name": "emoji_letters",
   "version": "1.0.6",
-  "description": "",
+  "description": "Generates large emoji letters.",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "emoji_letters": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Uhl",
   "license": "ISC",
   "dependencies": {},
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieluhl/emoji_letters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danieluhl/emoji_letters/issues"
+  },
+  "homepage": "https://github.com/danieluhl/emoji_letters#readme"
 }
