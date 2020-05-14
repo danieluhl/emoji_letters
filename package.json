@@ -13,7 +13,6 @@
   "author": "Daniel Uhl",
   "license": "ISC",
   "dependencies": {},
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danieluhl/emoji_letters.git"
